@@ -1,0 +1,53 @@
+.header {
+    background: url('/assets/images/infografias/nav.jpeg') no-repeat center;
+    background-size: cover;
+    min-width: 100%;
+}
+
+.header .navbar {
+    background-color: transparent !important;
+}
+
+.nav-item a{
+    color: #D35400;
+}
+
+.nav-item a:hover{
+    color: #A04000;
+}
+
+@media only screen and (min-width: 300px) {
+    .header{
+        min-height: 23vh;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .header{
+        min-height: 35vh;
+    }
+}
+
+@media only screen and (min-width: 600px) {
+    .header{
+        min-height: 55vh;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .header{
+        min-height: 55vh;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    .header{
+        min-height: 72vh;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .header{
+        min-height: 87vh;
+    }
+}
