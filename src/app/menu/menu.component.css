@@ -1,5 +1,5 @@
 .header {
-    background: url('https://oscarapariciocol.github.io/mineria-ilegal/assets/images/infografias/nav.jpeg') no-repeat center;
+    background: url(https://oscarapariciocol.github.io/mineria-ilegal/src/assets/images/infografias/nav.jpeg) no-repeat center;
     background-size: cover;
     min-width: 100%;
 }
